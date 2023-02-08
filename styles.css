@@ -1,0 +1,146 @@
+*{font-family: "helvetica";}
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+	align-items: center;
+    height:100vh;
+}
+
+h1{
+    font-size: 14px;
+    
+    
+}
+
+.post-instagram{
+    background-color: white;
+    width:500px ;
+    margin: auto;
+    padding: 5px;
+    
+}
+
+.header-instagram{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 0px;
+}
+
+.header-left{
+   
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+.material-icons.md-18 {
+     font-size: 15px; 
+     color: rgb(77, 148, 247);
+     display: flex;
+     justify-content: space-between;
+     margin-top: 15px;
+     margin-left: 3px;
+     margin-right: 348px;
+
+}
+
+
+
+.logo {
+    height:40px;
+    width:40px;
+    border-radius:28px;
+    border:2px solid rgb(15, 188, 32);
+    
+ } 
+
+ .header-title{
+    font-size: 14px;
+    margin-top: 5px;
+    margin-left: 5px;
+
+    
+ }
+
+ .icon{
+   margin-top: 10px;
+   font-size: 25px;
+ 
+   
+
+
+ }
+
+ .imagen-instagram{
+   
+    display:flex;
+    justify-content: center;
+
+    
+   
+    
+ }
+
+.imagen-post{
+    
+    width: 510px;
+    height: 400px;
+    
+}
+
+.post-action{
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+.heart, .plane, .comment{
+    margin-top: 12px;
+    margin-left: 9px;
+    font-size: 25px;
+    margin-right: 1px;
+
+
+}
+
+.transformed{
+    transform: scaleX(-1);
+    
+  
+}
+.mark{
+    margin-top: 12px;
+    margin-left: 9px;
+    margin-right:9px ;
+    font-size: 25px;
+
+}
+
+.post-footer{
+    display: flex;
+    font-size: 12px;
+
+
+}
+
+.netflix {
+    height:19px;
+    width:20px;
+    border-radius:10px;
+    margin-top: 8px;
+    margin-right: 3px;
+    margin-left: 13px;
+    
+}
+
+
+.fotter-copy{
+    margin-top: -19px;
+    margin-left: 13px;
+    font-size: 12px;
+   
+}
+
